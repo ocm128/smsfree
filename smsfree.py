@@ -2,7 +2,7 @@
 # -*- coding: latin-1 -*-
 
 # smsfree.py by ocm128 (31-3-09)
-# contact: tdoc@tutamail.com
+
 
 import pygtk
 pygtk.require("2.0")
